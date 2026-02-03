@@ -114,7 +114,7 @@ plt.show()
 new_input = torch.tensor([[60.0]])
 prediction = model(new_input)
 
-print("\nNew Input:", new_input.item())
+print("\nSample Input:", new_input.item())
 print("Predicted Output:", prediction.item())
 
 
