@@ -121,9 +121,8 @@ print("Predicted Output:", prediction.item())
 ```
 
 ### Dataset Information
-<img width="672" height="276" alt="image" src="https://github.com/user-attachments/assets/73e521a0-2e69-4117-a51c-37a33cdc8a17" />
+<img width="781" height="547" alt="image" src="https://github.com/user-attachments/assets/1edb23a0-f276-4434-84e1-583599424d32" />
 
-<img width="620" height="267" alt="image" src="https://github.com/user-attachments/assets/33f226ed-2d7d-43d4-a842-f5040f47922c" />
 
 
 ### OUTPUT
@@ -134,7 +133,7 @@ print("Predicted Output:", prediction.item())
 <img width="710" height="517" alt="image" src="https://github.com/user-attachments/assets/60be656f-8e09-484b-b9c4-3e7756f005a4" />
 
 ### New Sample Data Prediction
-<img width="602" height="337" alt="image" src="https://github.com/user-attachments/assets/b9181a1d-302a-4957-b0af-3bc78fb97322" />
+<img width="356" height="57" alt="image" src="https://github.com/user-attachments/assets/a30868cf-de5e-45ba-9fcc-8aa84463a33b" />
 
 
 ## RESULT
